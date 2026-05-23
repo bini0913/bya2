@@ -15,7 +15,7 @@ export async function SiteFooter() {
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           <div className="lg:col-span-1">
             <Link href="/" className="inline-flex items-center gap-3">
-              <Image src="/logo.png" alt="" width={56} height={56} className="h-14 w-14 rounded-full" />
+              <Image src="/logo.svg" alt="" width={56} height={56} className="h-14 w-14 rounded-full" />
               <div>
                 <p className="font-display text-lg font-semibold">{t("shortName")}</p>
                 <p className="text-xs text-white/50">{t("gradeRange")}</p>

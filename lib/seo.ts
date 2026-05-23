@@ -59,7 +59,7 @@ export function organizationJsonLd(locale = "en") {
     inLanguage: locale,
     alternateName: SITE.shortName,
     url: getSiteUrl(),
-    logo: `${getSiteUrl()}/logo.png`,
+    logo: `${getSiteUrl()}/logo.svg`,
     description: SITE.description,
     address: {
       "@type": "PostalAddress",

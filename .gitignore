@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# build and dist
+/dist/
+/build/
+
+# compiled binaries and machine-generated files
+*.exe
+*.dll
+*.pyc
+__pycache__/
+

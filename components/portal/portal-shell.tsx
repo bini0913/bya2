@@ -27,7 +27,7 @@ export async function PortalShell({
       <header className="border-b border-navy-900/10 bg-white">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
           <Link href="/" className="flex items-center gap-3">
-            <Image src="/logo.png" alt="" width={40} height={40} className="h-10 w-10 rounded-full" />
+            <Image src="/logo.svg" alt="" width={40} height={40} className="h-10 w-10 rounded-full" />
             <span className="font-display text-lg font-semibold text-navy-900">{t("shortName")}</span>
           </Link>
           <div className="flex items-center gap-3">

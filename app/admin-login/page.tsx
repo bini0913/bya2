@@ -44,7 +44,7 @@ export default function AdminLoginPage() {
     <div className="flex min-h-screen items-center justify-center bg-[#0B1F3A] px-4">
       <div className="w-full max-w-md rounded-lg border border-white/10 bg-white p-8 shadow-2xl">
         <div className="mb-8 text-center">
-          <Image src="/logo.png" alt="" width={64} height={64} className="mx-auto h-16 w-16 rounded-full" />
+          <Image src="/logo.svg" alt="" width={64} height={64} className="mx-auto h-16 w-16 rounded-full" />
           <h1 className="mt-4 font-display text-2xl font-semibold text-[#0B1F3A]">BYA Admin</h1>
           <p className="mt-1 text-sm text-muted">Admissions management — authorized staff only</p>
         </div>

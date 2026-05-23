@@ -1,0 +1,6 @@
+*.svg text diff
+*.json text diff
+*.xml text diff
+*.yml text diff
+*.yaml text diff
+*.md text diff
