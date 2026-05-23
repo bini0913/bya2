@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "title": "Boriyad Youth Academy",
+    "description": "Premier KG–Grade 12 international school in Ethiopia. Shaping Ethiopia's next generation of leaders through rigorous academics, character, and global citizenship.",
+    "tagline": "Preparing the Future Generations for Success in a changing World!"
+  },
+  "common": {
+    "siteName": "Boriyad Youth Academy",
+    "shortName": "BYA",
+    "skipToContent": "Skip to main content",
+    "applyNow": "Apply Now",
+    "startAdmission": "Start Admission",
+    "explorePrograms": "Explore Programs",
+    "readMore": "Read more",
+    "allNews": "All News",
+    "portal": "Portal",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "backToSite": "Back to site",
+    "comingSoon": "Soon",
+    "open": "Open",
+    "gradeRange": "KG – Grade 12",
+    "copyright": "All rights reserved.",
+    "submitting": "Submitting…",
+    "sending": "Sending…",
+    "tagline": "Excellence & Integrity",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "academics": "Academics",
+      "admissions": "Admissions",
+      "studentLife": "Student Life",
+      "results": "Results",
+      "gallery": "Gallery",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "portals": {
+      "studentPortal": "Student Portal",
+      "parentPortal": "Parent Portal",
+      "teacher": "Teacher",
+      "admin": "Admin"
+    },
+    "language": {
+      "label": "Language",
+      "en": "English",
+      "om": "Afaan Oromoo",
+      "am": "አማርኛ"
+    }
+  },
+  "home": {
+    "hero": {
+      "line1": "Shaping Ethiopia's",
+      "line2": "Next Generation",
+      "line3": "of Leaders",
+      "subtitle": "Boriyad Youth Academy provides world-class education from Kindergarten to Grade 12, inspiring young minds to excel academically, lead confidently, and impact the world.",
+      "watchVideo": "Watch Video",
+      "campusLife": "Campus Life"
+    },
+    "heroStats": {
+      "students": { "label": "Students", "sub": "Growing Leaders" },
+      "teachers": { "label": "Qualified Teachers", "sub": "Experts in Education" },
+      "years": { "label": "Years of Excellence", "sub": "Inspiring Greatness" },
+      "campuses": { "label": "Campuses", "sub": "Addis Ababa" },
+      "success": { "label": "Exam Success", "sub": "Outstanding Results" }
+    },
+    "stats": {
+      "placement": "University placement rate",
+      "students": "Students KG–Grade 12",
+      "educators": "Expert educators",
+      "years": "Years of excellence"
+    },
+    "why": {
+      "eyebrow": "Why Boriyad",
+      "title": "Where Excellence Meets Purpose",
+      "description": "We don't just teach subjects — we cultivate thinkers, leaders, and citizens prepared for a changing world.",
+      "faculty": { "title": "World-Class Faculty", "description": "Educators trained in international pedagogy with deep commitment to every learner." },
+      "holistic": { "title": "Holistic Development", "description": "Academics balanced with arts, athletics, service, and character formation." },
+      "global": { "title": "Global Perspective", "description": "Multilingual environment preparing students for universities worldwide." },
+      "outcomes": { "title": "Proven Outcomes", "description": "Consistent top national exam results and international university admissions." }
+    },
+    "programs": {
+      "eyebrow": "Academics",
+      "title": "Programs for Every Stage",
+      "description": "From early years through university preparation — a coherent journey of discovery and mastery.",
+      "viewCurriculum": "View Full Curriculum",
+      "items": [
+        { "title": "Early Years (KG)", "description": "Play-based inquiry nurturing curiosity, literacy foundations, and social confidence.", "grades": "KG1–KG3" },
+        { "title": "Primary School", "description": "Core competencies in literacy, numeracy, science, and Ethiopian heritage with global standards.", "grades": "Grade 1–6" },
+        { "title": "Middle School", "description": "Critical thinking, STEM labs, languages, and leadership through project-based learning.", "grades": "Grade 7–8" },
+        { "title": "High School", "description": "IGCSE-aligned pathways, university counseling, and competitive exam preparation.", "grades": "Grade 9–12" }
+      ]
+    },
+    "studentLife": {
+      "eyebrow": "Student Life",
+      "title": "Beyond the Classroom",
+      "description": "A vibrant campus where passions flourish and lifelong friendships form.",
+      "discover": "Discover Campus Life",
+      "galleryLabel": "Campus Life Gallery",
+      "highlights": [
+        { "title": "Arts & Culture", "desc": "Music, visual arts, drama, and annual cultural celebrations." },
+        { "title": "Athletics", "desc": "Football, basketball, track, and inter-school competitions." },
+        { "title": "Clubs & Leadership", "desc": "Debate, robotics, Model UN, and student council." },
+        { "title": "Service Learning", "desc": "Community outreach building empathy and civic responsibility." }
+      ]
+    },
+    "results": {
+      "eyebrow": "Outcomes",
+      "title": "Results That Speak",
+      "description": "Consistent national exam excellence and international university placements year after year.",
+      "passRate": "National Exam Pass Rate",
+      "igcse": "A/A* Grades (IGCSE)",
+      "placements": "International Placements",
+      "fullResults": "Full Results & Rankings"
+    },
+    "testimonials": {
+      "eyebrow": "Voices",
+      "title": "Trusted by Families & Educators",
+      "description": "Hear from our community about the BYA difference.",
+      "items": [
+        { "quote": "BYA gave our daughter the confidence and academic rigor to earn a full scholarship abroad. The teachers truly see each child.", "name": "Mrs. Almaz T.", "role": "Parent, Grade 12" },
+        { "quote": "The science labs and debate program prepared me for university in ways no other school in Addis could match.", "name": "Daniel M.", "role": "Alumnus, Class of 2024" },
+        { "quote": "As an educator, the professional culture and resources here rival international schools I've worked in globally.", "name": "Dr. Samuel K.", "role": "Science Department" }
+      ]
+    },
+    "news": {
+      "eyebrow": "News & Events",
+      "title": "Latest from BYA",
+      "description": "Achievements, announcements, and campus happenings.",
+      "items": [
+        { "slug": "national-science-fair-2025", "title": "BYA Students Sweep National Science Fair", "excerpt": "Three gold medals and two special awards at the 2025 National Science Olympiad.", "date": "2025-03-12", "category": "Achievement" },
+        { "slug": "cambridge-partnership", "title": "New Cambridge Assessment Partnership", "excerpt": "Expanded IGCSE pathways and examiner training for our faculty.", "date": "2025-02-28", "category": "Academics" },
+        { "slug": "open-day-2025", "title": "Spring Open Day — Register Now", "excerpt": "Tour our campus, meet faculty, and experience a day at BYA.", "date": "2025-04-05", "category": "Admissions" }
+      ]
+    },
+    "admissions": {
+      "eyebrow": "Admissions",
+      "title": "Your Journey Starts Here",
+      "description": "A transparent, supportive process designed for families seeking excellence.",
+      "beginApplication": "Begin Application",
+      "steps": [
+        { "title": "Inquiry", "description": "Submit the online form or visit our admissions office." },
+        { "title": "Campus Visit", "description": "Tour facilities and meet with our academic team." },
+        { "title": "Assessment", "description": "Age-appropriate entrance evaluation and interview." },
+        { "title": "Enrollment", "description": "Receive offer, complete registration, and join BYA." }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Join BYA",
+      "title": "Give Your Child the Education They Deserve",
+      "description": "Limited places available for the 2025–2026 academic year. Schedule a campus visit or apply online today.",
+      "scheduleVisit": "Schedule a Visit"
+    }
+  },
+  "about": {
+    "meta": { "title": "About", "description": "Discover Boriyad Youth Academy's mission, values, and legacy of educational excellence in Ethiopia." },
+    "hero": { "eyebrow": "About BYA", "title": "A Legacy of Excellence", "description": "Since our founding, Boriyad Youth Academy has prepared students for success in a changing world — with integrity, rigor, and heart." },
+    "story": { "eyebrow": "Our Story", "title": "Preparing Future Generations", "description": "Founded in Addis Ababa, BYA serves families seeking an education that rivals the world's finest institutions while honoring Ethiopian heritage and values.", "body": "Our trilingual community — Oromo, Amharic, and English — reflects the diversity of modern Ethiopia. We invest in exceptional teachers, modern facilities, and a culture where every student is known, challenged, and supported." },
+    "mission": { "eyebrow": "Mission & Vision", "title": "Education with Purpose", "description": "We cultivate intellect, character, and leadership — graduates who contribute to Ethiopia and the world.", "missionTitle": "Mission", "visionTitle": "Vision", "valuesTitle": "Values", "mission": "Deliver world-class KG–12 education that develops the whole child.", "vision": "Be Ethiopia's most respected youth academy, known for outcomes and integrity.", "values": "Excellence, respect, curiosity, service, and global citizenship." }
+  },
+  "academics": {
+    "meta": { "title": "Academics", "description": "Explore BYA's KG–Grade 12 programs, curriculum pathways, and university preparation." },
+    "hero": { "eyebrow": "Academics", "title": "Rigorous. Relevant. Remarkable.", "description": "A coherent curriculum from early years through university preparation, aligned with international standards." },
+    "programs": { "eyebrow": "Programs", "title": "Learning Pathways", "description": "Each stage builds on the last — developing skills, knowledge, and character." },
+    "enrichment": { "eyebrow": "Beyond Academics", "title": "Enrichment & Support", "description": "STEM labs, languages, arts, counseling, and university guidance integrated throughout.", "items": ["Cambridge-aligned pathways", "STEM & Robotics", "Multilingual instruction", "University counseling", "Learning support", "Character education"] }
+  },
+  "admissions": {
+    "meta": { "title": "Admissions", "description": "Apply to Boriyad Youth Academy. Learn about our admissions process for KG through Grade 12." },
+    "hero": { "eyebrow": "Admissions", "title": "Join the BYA Community", "description": "We welcome families who share our commitment to excellence. Limited places for 2025–2026." },
+    "process": { "eyebrow": "Process", "title": "How to Apply", "description": "Four simple steps from inquiry to enrollment." },
+    "form": { "eyebrow": "Inquiry Form", "title": "Start Your Application", "description": "Complete the form and our admissions team will be in touch within 2 business days.", "parentName": "Parent / Guardian Name", "email": "Email", "phone": "Phone", "gradeInterest": "Grade of Interest", "gradePlaceholder": "e.g. Grade 5", "message": "Message (optional)", "submit": "Submit Inquiry", "successTitle": "Thank you!", "successMessage": "Your inquiry has been received. Our admissions team will contact you within 2 business days.", "submitAnother": "Submit another inquiry", "error": "Something went wrong. Please try again or email us directly." },
+    "apply": {
+      "metaTitle": "Apply for Admission",
+      "metaDescription": "Submit your admission application to Boriyad Youth Academy.",
+      "eyebrow": "Admissions",
+      "title": "Begin Your Application",
+      "description": "Complete this secure form to apply for KG through Grade 12. Our admissions office will review your application promptly."
+    },
+    "success": {
+      "metaTitle": "Application Submitted",
+      "title": "Application Submitted Successfully",
+      "message": "Our admissions office will contact you. Please save your reference ID below.",
+      "backHome": "Return to Homepage"
+    }
+  },
+  "studentLife": {
+    "meta": { "title": "Student Life", "description": "Campus life at BYA — arts, athletics, clubs, and leadership opportunities." },
+    "hero": { "eyebrow": "Student Life", "title": "A Campus Alive with Possibility", "description": "Where students discover passions, build friendships, and grow as leaders." },
+    "activities": { "eyebrow": "Activities", "title": "Something for Every Student", "items": [
+      { "title": "Performing Arts", "desc": "Annual productions, choir, and instrumental programs." },
+      { "title": "Sports", "desc": "Inter-school leagues in football, basketball, athletics, and more." },
+      { "title": "STEM Clubs", "desc": "Robotics, coding, and science olympiad teams." },
+      { "title": "Leadership", "desc": "Student council, debate, Model UN, and peer mentoring." },
+      { "title": "Community Service", "desc": "Partnerships with local organizations and outreach projects." },
+      { "title": "House System", "desc": "Friendly competition fostering belonging and school spirit." }
+    ]}
+  },
+  "gallery": {
+    "meta": { "title": "Gallery", "description": "Photo gallery of life at Boriyad Youth Academy." },
+    "hero": { "eyebrow": "Gallery", "title": "Life at BYA", "description": "Moments that capture our community, campus, and celebrations." },
+    "items": ["Graduation Ceremony", "Science Laboratory", "Sports Day", "Cultural Festival", "Library & Learning Commons", "Early Years Classroom", "Debate Championship", "Art Exhibition", "Campus Aerial View"]
+  },
+  "results": {
+    "meta": { "title": "Results", "description": "BYA national exam results, IGCSE achievements, and university placements." },
+    "hero": { "eyebrow": "Results", "title": "Excellence You Can Measure", "description": "Year after year, our students achieve outstanding outcomes on national and international examinations." },
+    "placements": { "eyebrow": "University Placements", "title": "Graduates Around the World", "description": "Recent BYA alumni have been accepted to leading universities in Ethiopia, the UK, USA, and beyond.", "universities": ["Addis Ababa University", "University of London", "MIT (USA)", "University of Toronto", "AAU Engineering", "Oxford Brookes", "Stanford (USA)", "University of Cape Town"] }
+  },
+  "news": {
+    "meta": { "title": "News", "description": "Latest news, events, and announcements from Boriyad Youth Academy." },
+    "hero": { "eyebrow": "News & Events", "title": "Stories from Our Community" },
+    "cmsNote": "Full article content will be managed via Supabase CMS. Connect your database to publish dynamic news articles."
+  },
+  "contact": {
+    "meta": { "title": "Contact", "description": "Contact Boriyad Youth Academy for admissions, visits, and general inquiries." },
+    "hero": { "eyebrow": "Contact", "title": "We'd Love to Hear From You", "description": "Reach our admissions and administration team for inquiries, campus visits, and partnerships." },
+    "getInTouch": "Get in Touch",
+    "visit": "Visit Our Campus",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "mapPlaceholder": "Campus map — integrate Google Maps API",
+    "form": { "name": "Name", "email": "Email", "subject": "Subject", "message": "Message", "submit": "Send Message", "successTitle": "Message sent!", "successMessage": "We'll respond within 1–2 business days.", "error": "Failed to send. Please try again." }
+  },
+  "portal": {
+    "scaffoldNotice": "Portal modules are scaffolded for ERP expansion. Connect Supabase auth to activate.",
+    "student": { "title": "Student Portal", "role": "Student", "description": "Access your academic records, assignments, timetable, and school announcements." },
+    "parent": { "title": "Parent Portal", "role": "Parent", "description": "Stay connected to your child's education — grades, attendance, fees, and school updates." },
+    "teacher": { "title": "Teacher Dashboard", "role": "Teacher", "description": "Manage your classes — upload marks, assign homework, and record attendance." },
+    "admin": { "title": "Admin Dashboard", "role": "Administrator", "description": "Complete school ERP — students, finance, academics, events, and communications." },
+    "modules": {
+      "results": { "title": "Results", "description": "View exam results and report cards." },
+      "assignments": { "title": "Assignments", "description": "Submit and track homework." },
+      "schedule": { "title": "Schedule", "description": "Class timetable and events." },
+      "announcements": { "title": "Announcements", "description": "School-wide notices." },
+      "grades": { "title": "Track Grades", "description": "Monitor academic progress." },
+      "attendance": { "title": "Attendance", "description": "Daily attendance records." },
+      "payments": { "title": "Payments", "description": "Fees and payment history." },
+      "notifications": { "title": "Notifications", "description": "Alerts from teachers and admin." },
+      "marks": { "title": "Upload Marks", "description": "Enter grades and assessments." },
+      "students": { "title": "Student Management", "description": "Enrollments, profiles, classes." },
+      "finance": { "title": "Finance", "description": "Fees, invoices, and payments." },
+      "events": { "title": "Events", "description": "Calendar and event management." },
+      "messaging": { "title": "Messaging", "description": "Internal communication hub." }
+    }
+  },
+  "footer": {
+    "explore": "Explore",
+    "admissions": "Admissions",
+    "portals": "Portals",
+    "contact": "Contact",
+    "tagline": "Preparing the Future Generations for Success in a changing World!",
+    "oromoName": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii",
+    "amharicName": "ቦርያድ ዩዝ አካዳሚ"
+  }
+}

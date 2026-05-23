@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "title": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii",
+    "description": "Mana barumsaa idil-addunyaa KG hanga Kutaa 12 Biyya Itoophiyaa keessatti. Dhaloota Itoophiyaa hogganoota boru ta'aniif qopheessu.",
+    "tagline": "Dhaloota Boru Safartuu Addunyaa Jijjiiramtu Keessatti Milkaa'inaaf Qopheessuu!"
+  },
+  "common": {
+    "siteName": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii",
+    "shortName": "BYA",
+    "skipToContent": "Gara qabiyyee ijoo utaali",
+    "applyNow": "Amma Iyyadhu",
+    "startAdmission": "Galmaa'ina Jalqabi",
+    "explorePrograms": "Sagantaalee Sakatta'i",
+    "readMore": "Dabalata dubbisi",
+    "allNews": "Oduu Hunda",
+    "portal": "Poortaalii",
+    "openMenu": "Menyuu bani",
+    "closeMenu": "Menyuu cufi",
+    "backToSite": "Deebi'i gara marsariitii",
+    "comingSoon": "Dhiyootti",
+    "open": "Bani",
+    "gradeRange": "KG – Kutaa 12",
+    "copyright": "Mirgi hundi eegameera.",
+    "submitting": "Erguu jira…",
+    "sending": "Erguu jira…",
+    "tagline": "Milkaa'ina & Amantii",
+    "nav": {
+      "home": "Fuula Duraa",
+      "about": "Waa'ee Keenya",
+      "academics": "Barnoota",
+      "admissions": "Galmaa'ina",
+      "studentLife": "Jireenya Barattootaa",
+      "results": "Bu'aa Qormaataa",
+      "gallery": "Kuusaa Suuraa",
+      "news": "Oduu",
+      "contact": "Nu Quunnamaa"
+    },
+    "portals": {
+      "studentPortal": "Poortaalii Barataa",
+      "parentPortal": "Poortaalii Warraa",
+      "teacher": "Barsiisaa",
+      "admin": "Bulchaa"
+    },
+    "language": {
+      "label": "Afaan",
+      "en": "English",
+      "om": "Afaan Oromoo",
+      "am": "አማርኛ"
+    }
+  },
+  "home": {
+    "hero": {
+      "line1": "Dhaloota Itoophiyaa",
+      "line2": "Soorama Itti Aanu",
+      "line3": "Hogganoota Ta'aniif Qopheessuu",
+      "subtitle": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii barnoota addunyaa sadarkaa KG hanga Kutaa 12 kenna, sammuu dargaggeessotaa milkaa'inaan, amanamaadhaan hogganuuf qopheessa.",
+      "watchVideo": "Viidiyoo Ilaali",
+      "campusLife": "Jireenya Kaampasii"
+    },
+    "heroStats": {
+      "students": { "label": "Barattoota", "sub": "Hogganoota Guddachaa Jiran" },
+      "teachers": { "label": "Barsiisotaa Ogummaa Qaban", "sub": "Ogeeyyii Barnootaa" },
+      "years": { "label": "Waggaa Milkaa'inaa", "sub": "Gudina Kabajaan" },
+      "campuses": { "label": "Kaampasii", "sub": "Finfinnee" },
+      "success": { "label": "Milkaa'ina Qormaataa", "sub": "Bu'aa Gaarii" }
+    },
+    "stats": {
+      "placement": "Hamma yuunivarsiitii itti makaman",
+      "students": "Barattoota KG–Kutaa 12",
+      "educators": "Barsiisotaa ogummaa qaban",
+      "years": "Waggaa milkaa'inaa"
+    },
+    "why": {
+      "eyebrow": "Maaliif Booriyaad",
+      "title": "Milkaa'ina Kaayyoo Waliin Wal Dhufe",
+      "description": "Qabxii qofa hin barsiisinu — yaada, hogganoota, fi lamummaa addunyaa jijjiiramtuuf qopheessina.",
+      "faculty": { "title": "Barsiisotaa Addunyaa Irraa", "description": "Barsiisotaa aadaa barnoota idil-addunyaa irratti leenjifamanii barataa hundaaf kaka'an." },
+      "holistic": { "title": "Guddina Guutuu", "description": "Barnoota, artistii, ispoortii, tajaajila hawaasaa, fi ijaarsa amalaa waliin madaallii." },
+      "global": { "title": "Ilaalcha Addunyaa", "description": "Naannoo afaan hedduu barattoota yuunivarsiitii addunyaa maraaf qopheessu." },
+      "outcomes": { "title": "Bu'aa Mirkaneeffame", "description": "Bu'aa qormaata biyyoolessaa ol'aanaa fi galmaa'ina yuunivarsiitii idil-addunyaa yeroo hunda." }
+    },
+    "programs": {
+      "eyebrow": "Barnoota",
+      "title": "Sagantaalee Sadarkaa Hundaaf",
+      "description": "Daa'immanii irraa kaasee qophii yuunivarsiitii hanga — tarkaanfii barumsaa walitti fufiinsa qabu.",
+      "viewCurriculum": "Cuunfaa Barnootaa Guutuu Ilaali",
+      "items": [
+        { "title": "Waggaa Jalqabaa (KG)", "description": "Qorannoo tapha irratti hundaa'e beekumsa, bu'uura dubbisuu-barreessuu, fi amanamummaa hawaasomaa guddisuu.", "grades": "KG1–KG3" },
+        { "title": "Mana Barumsaa Sadarkaa Tokkoffaa", "description": "Dandeettii bu'uuraa dubbisuu, lakkoofsa, saayinsii, fi mirgaa Itoophiyaa haala addunyaa waliin.", "grades": "Kutaa 1–6" },
+        { "title": "Mana Barumsaa Giddugaleessa", "description": "Yaada qorannoo, yuunittii STEM, afaanota, fi hogganummaa barnoota pirojektii irratti hundaa'e.", "grades": "Kutaa 7–8" },
+        { "title": "Mana Barumsaa Ol'aanaa", "description": "Karaa IGCSE, gorsa yuunivarsiitii, fi qophii qormaata dorgommii.", "grades": "Kutaa 9–12" }
+      ]
+    },
+    "studentLife": {
+      "eyebrow": "Jireenya Barattootaa",
+      "title": "Kutaa Barnootaa Ala",
+      "description": "Kaampasii socho'aa fedhii guddifatu, hiriyummaan yeroo dheeraaf ta'u ijaaru.",
+      "discover": "Jireenya Kaampasii Sakatta'i",
+      "galleryLabel": "Kuusaa Suuraa Jireenya Kaampasii",
+      "highlights": [
+        { "title": "Artistii & Aadaa", "desc": "Muuziqaa, suuraa, tiyaatira, fi ayyaana aadaa waggaa." },
+        { "title": "Ispoortii", "desc": "Kubbaa miilaa, baskitboolii, fi dorgommii mana barumsaa gidduu." },
+        { "title": "Dhaabbatoota & Hogganummaa", "desc": "Marii, roobootiksii, Model UN, fi konsilii barattootaa." },
+        { "title": "Tajaajila Hawaasaa", "desc": "Hawaasaaf tajaajiluun empathy fi itti gaafatamummaa lamummaa ijaaru." }
+      ]
+    },
+    "results": {
+      "eyebrow": "Bu'aa",
+      "title": "Bu'aan Dubbii Dubbisa",
+      "description": "Milkaa'ina qormaata biyyoolessaa fi galmaa'ina yuunivarsiitii idil-addunyaa waggaa waggaan.",
+      "passRate": "Hamma Qormaata Biyyoolessaa Darban",
+      "igcse": "Qabxii A/A* (IGCSE)",
+      "placements": "Galmaa'ina Idil-addunyaa",
+      "fullResults": "Bu'aa & Tarreeffama Guutuu"
+    },
+    "testimonials": {
+      "eyebrow": "Sagalee",
+      "title": "Maatii fi Barsiisotaa Ti'ee Amanama",
+      "description": "Hawaasa keenya irraa garaagarummaa BYA dubbisi.",
+      "items": [
+        { "quote": "BYA ilmoole keenya amanamummaa fi cimina barnootaa argachuuf gargaare, ishees deeggarsa guutuu alaatti argatte. Barsiisonni dhugumatti mucaa hunda argu.", "name": "Adde Almaz T.", "role": "Warra, Kutaa 12" },
+        { "quote": "Yuunittii saayinsii fi sagantaan marii na yuunivarsiitii qopheessu — kan biraan Finfinnee keessatti hin qabne.", "name": "Daani'el M.", "role": "Xumuraa, Qomoo 2024" },
+        { "quote": "Akka barsiisaaatti, aadaan ogummaa fi qabeenyi asitti kan addunyaa mara keessatti hojjetu wajjin wal qixa.", "name": "Dr. Saamu'el K.", "role": "Kutaa Saayinsii" }
+      ]
+    },
+    "news": {
+      "eyebrow": "Oduu & Taateewwan",
+      "title": "Oduu Haaraa BYA",
+      "description": "Milkaa'ina, beeksisa, fi taateewwan kaampasii.",
+      "items": [
+        { "slug": "national-science-fair-2025", "title": "Barattoonni BYA Qormaata Saayinsii Biyyoolessaa Mo'atan", "excerpt": "Meedaaliyaa warqee sadii fi badhaasa addaa lama Qormaata Saayinsii Biyyoolessaa 2025.", "date": "2025-03-12", "category": "Milkaa'ina" },
+        { "slug": "cambridge-partnership", "title": "Waliigaltee Qormaataa Cambridge Haaraa", "excerpt": "Karaa IGCSE bal'inaan fi leenjii qorataa barsiisotaaf.", "date": "2025-02-28", "category": "Barnoota" },
+        { "slug": "open-day-2025", "title": "Guyyaa Baniinsa Gaaraa — Amma Galmaa'i", "excerpt": "Kaampasii daawwadhu, barsiisota waliin wal baradhu, guyyaa BYA keessatti turii.", "date": "2025-04-05", "category": "Galmaa'ina" }
+      ]
+    },
+    "admissions": {
+      "eyebrow": "Galmaa'ina",
+      "title": "Imala Keessan Asitti Jalqaba",
+      "description": "Adeemsa ifaa, deeggarsa qabu maatii milkaa'ina barbaadanif.",
+      "beginApplication": "Iyyannoo Jalqabi",
+      "steps": [
+        { "title": "Gaaffii", "description": "Unkaa marsariitii guuti ykn waajjira galmaa'ina keenya daawwadhu." },
+        { "title": "Daawwannaa Kaampasii", "description": "Qabeenya daawwadhu, garee barnootaa waliin wal baradhu." },
+        { "title": "Madaallii", "description": "Qormaata seensaa umurii wajjin walsimu fi haasawa." },
+        { "title": "Galmaa'ina", "description": "Carraa argadhu, galmee guuti, BYA waliin ta'i." }
+      ]
+    },
+    "cta": {
+      "eyebrow": "BYA Waliin Ta'i",
+      "title": "Ijoollee Keessan Barnoota Isaaniif Mijatu Kennaa",
+      "description": "Bakka daangeffame waggaa barnootaa 2025–2026. Daawwannaa kaampasii qopheessaa ykn amma iyyadhaa.",
+      "scheduleVisit": "Daawwannaa Qopheessi"
+    }
+  },
+  "about": {
+    "meta": { "title": "Waa'ee Keenya", "description": "Kaayyoo, amaloota, fi mirgaa Mana Barumsaa Booriyaadi Yuuz Akkaadaamii Biyya Itoophiyaa keessatti." },
+    "hero": { "eyebrow": "Waa'ee BYA", "title": "Mirga Milkaa'inaa", "description": "Yeroo hundumaa keenya irraa eegalee, barattoota addunyaa jijjiiramtu keessatti milkaa'uuf qopheessine — amala, cimina, fi onnee waliin." },
+    "story": { "eyebrow": "Seenaa Keenya", "title": "Dhaloota Boru Qopheessuu", "description": "Finfinnee keessatti hundeeffame, BYA maatii barnoota addunyaa irraa hin cinne barbaadan tajaajila.", "body": "Hawaasa keenya afaan sadii — Oromoo, Amaaraa, fi Ingiliffa — garaagarummaa Itoophiyaa ammayyaa agarsiisa. Barsiisotaa addaa, qabeenya ammayyaa, fi aadaa barataa hundi beekamu, ciman, deeggaramu ijaarra." },
+    "mission": { "eyebrow": "Kaayyoo & Mul'ata", "title": "Barnoota Kaayyoo Qabu", "description": "Sammuu, amala, fi hogganummaa guddisna — eegduun Itoophiyaa fi addunyaa gumaachu.", "missionTitle": "Kaayyoo", "visionTitle": "Mul'ata", "valuesTitle": "Amaloota", "mission": "Barnoota KG–12 addunyaa irraa hin cinne kan mucaa guutuu guddisu kennuu.", "vision": "Mana barumsaa dargaggootaa Itoophiyaa keessatti kan kabajamu ta'uu, bu'aa fi amalaatiin beekamu.", "values": "Milkaa'ina, kabaja, beekumsa, tajaajila, fi lamummaa addunyaa." }
+  },
+  "academics": {
+    "meta": { "title": "Barnoota", "description": "Sagantaalee KG–Kutaa 12, karaa barnootaa, fi qophii yuunivarsiitii BYA." },
+    "hero": { "eyebrow": "Barnoota", "title": "Cimaa. Barbaachisa. Kan Ajaa'ibsiisu.", "description": "Cuunfaa walitti fufiinsa qabu waggaa jalqabaa irraa qophii yuunivarsiitii hanga, haala idil-addunyaa waliin walsimu." },
+    "programs": { "eyebrow": "Sagantaalee", "title": "Karaalee Barnootaa", "description": "Sadarkaa tokkoon tokkoo itti aanu ijaara — dandeettii, beekumsa, fi amala guddisa." },
+    "enrichment": { "eyebrow": "Barnoota Ala", "title": "Dabalata & Deeggarsa", "description": "Yuunittii STEM, afaanota, artistii, gorsa, fi qajeelfama yuunivarsiitii walitti makame.", "items": ["Karaa Cambridge walsimu", "STEM & Roobootiksii", "Barnoota afaan hedduu", "Gorsa yuunivarsiitii", "Deeggarsa barnootaa", "Barnoota amalaa"] }
+  },
+  "admissions": {
+    "meta": { "title": "Galmaa'ina", "description": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii galmaa'i. Adeemsa galmaa'ina KG hanga Kutaa 12." },
+    "hero": { "eyebrow": "Galmaa'ina", "title": "Hawaasa BYA Waliin Ta'i", "description": "Maatii milkaa'ina waliin qooddatu simannaa. Bakka daangeffame 2025–2026." },
+    "process": { "eyebrow": "Adeemsa", "title": "Akkaataa Iyyannoo", "description": "Tarkaanfii salphaa afur gaaffii irraa galmee hanga." },
+    "form": { "eyebrow": "Unkaa Gaaffii", "title": "Iyyannoo Keessan Jalqabi", "description": "Unkaa guuti, gareen galmaa'ina keenya guyyaa hojii 2 keessatti si quunnama.", "parentName": "Maqaa Warraa / Eegduu", "email": "Imeelii", "phone": "Bilbila", "gradeInterest": "Kutaa Barbaaddu", "gradePlaceholder": "fkn. Kutaa 5", "message": "Ergaa (filannoo)", "submit": "Gaaffii Ergi", "successTitle": "Galatoomaa!", "successMessage": "Gaaffii keessan fudhatameera. Gareen galmaa'ina guyyaa hojii 2 keessatti si quunnama.", "submitAnother": "Gaaffii biraa ergi", "error": "Wanti tokko dogoggorame. Irra deebi'ii yaali ykn imeelii nuuf ergi." },
+    "apply": {
+      "metaTitle": "Galmaa'iif Iyyadhu",
+      "metaDescription": "Iyyannoo galmaa'ina Mana Barumsaa Booriyaadi Yuuz Akkaadaamii ergi.",
+      "eyebrow": "Galmaa'ina",
+      "title": "Iyyannoo Keessan Jalqabi",
+      "description": "Unkaa nageenya qabuun KG hanga Kutaa 12 iyyadhu. Waajjira galmaa'ina keenya iyyannoo keessan saffisaan ilaala."
+    },
+    "success": {
+      "metaTitle": "Iyyannoo Ergame",
+      "title": "Iyyannoon Milkaa'inaan Ergame",
+      "message": "Waajjira galmaa'ina keenya si quunnama. Lakkoofsa wabii (reference) armaan gadii qusadhu.",
+      "backHome": "Fuula Duratti Deebi'i"
+    }
+  },
+  "studentLife": {
+    "meta": { "title": "Jireenya Barattootaa", "description": "Jireenya kaampasii BYA — artistii, ispoortii, dhaabbatoota, fi carraa hogganummaa." },
+    "hero": { "eyebrow": "Jireenya Barattootaa", "title": "Kaampasii Carraa Guutuu", "description": "Barattoonni fedhii argatan, hiriyummaa ijaaran, hogganoota ta'aniif guddatan." },
+    "activities": { "eyebrow": "Hojiiwwan", "title": "Barataa Hundaaf Wanti Tokko", "items": [
+      { "title": "Artistii Taphaa", "desc": "Oduu waggaa, kooraa, fi sagantaalee muuziqaa." },
+      { "title": "Ispoortii", "desc": "Dorgommii mana barumsaa gidduu kubbaa miilaa, baskitboolii, fi atileetiksii." },
+      { "title": "Dhaabbatoota STEM", "desc": "Garee roobootiksii, koodii, fi olimpiiaadii saayinsii." },
+      { "title": "Hogganummaa", "desc": "Konsilii barattootaa, marii, Model UN, fi leenjii peer." },
+      { "title": "Tajaajila Hawaasaa", "desc": "Waliin hojjechuu dhaabbilee naannoo fi pirojektii gargaarsa." },
+      { "title": "Sirna Mana", "desc": "Dorgommii nagaa qabu kan walitti dhufeenya fi onnee mana barumsaa guddisu." }
+    ]}
+  },
+  "gallery": {
+    "meta": { "title": "Kuusaa Suuraa", "description": "Suuraa jireenya Mana Barumsaa Booriyaadi Yuuz Akkaadaamii." },
+    "hero": { "eyebrow": "Kuusaa Suuraa", "title": "Jireenya BYA", "description": "Yeroo hawaasa, kaampasii, fi ayyaana keenya agarsiisan." },
+    "items": ["Ayyaana Eebbifamuu", "Yuunittii Saayinsii", "Guyyaa Ispoortii", "Ayyaana Aadaa", "Mana Kitaabaa", "Kutaa Waggaa Jalqabaa", "Mo'annaa Marii", "Waraabuu Artistii", "Kaampasii Olka'aa"]
+  },
+  "results": {
+    "meta": { "title": "Bu'aa Qormaataa", "description": "Bu'aa qormaata biyyoolessaa BYA, milkaa'ina IGCSE, fi galmaa'ina yuunivarsiitii." },
+    "hero": { "eyebrow": "Bu'aa", "title": "Milkaa'ina Safaramu Danda'u", "description": "Waggaa waggaan barattoonni bu'aa guddaa qormaata biyyoolessaa fi idil-addunyaa argatu." },
+    "placements": { "eyebrow": "Galmaa'ina Yuunivarsiitii", "title": "Eegduun Addunyaa Mara", "description": "Eegduun BYA dhiyoo yuunivarsiitii Itoophiyaa, UK, USA, fi kan biroo galmaa'aniiru.", "universities": ["Yuunivarsiitii Finfinnee", "Yuunivarsiitii London", "MIT (USA)", "Yuunivarsiitii Toronto", "Injinariing AAU", "Oxford Brookes", "Stanford (USA)", "Yuunivarsiitii Cape Town"] }
+  },
+  "news": {
+    "meta": { "title": "Oduu", "description": "Oduu, taateewwan, fi beeksisa Mana Barumsaa Booriyaadi Yuuz Akkaadaamii." },
+    "hero": { "eyebrow": "Oduu & Taateewwan", "title": "Seenaa Hawaasa Keenya" },
+    "cmsNote": "Qabiyyee guutuu Supabase CMS'n bulfama. Oduu socho'aa maxxansuuf kuusaagaaga kee wal qabsiisi."
+  },
+  "contact": {
+    "meta": { "title": "Nu Quunnamaa", "description": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii galmaa'ina, daawwannaa, fi gaaffii waliif quunnamaa." },
+    "hero": { "eyebrow": "Nu Quunnamaa", "title": "Nu Gama Keessan Dhaga'uu Barbaanna", "description": "Garee galmaa'ina fi bulchiinsa keenya gaaffii, daawwannaa kaampasii, fi waliin hojjechuu." },
+    "getInTouch": "Nu Quunnamaa",
+    "visit": "Kaampasii Keenya Daawwadhu",
+    "address": "Teessoo",
+    "phone": "Bilbila",
+    "email": "Imeelii",
+    "mapPlaceholder": "Kaartaa kaampasii — Google Maps API walitti makuu",
+    "form": { "name": "Maqaa", "email": "Imeelii", "subject": "Mata duree", "message": "Ergaa", "submit": "Ergaa Ergi", "successTitle": "Ergaan ergameera!", "successMessage": "Guyyaa hojii 1–2 keessatti deebii kennina.", "error": "Erguun hin milkoofne. Irra deebi'ii yaali." }
+  },
+  "portal": {
+    "scaffoldNotice": "Moodulaawwan poortaalii ERPf bal'isuuf qophaa'an. Supabase auth wal qabsiisi.",
+    "student": { "title": "Poortaalii Barataa", "role": "Barataa", "description": "Galmee barnootaa, hojii manaa, sagantaa, fi beeksisa mana barumsaa argadhu." },
+    "parent": { "title": "Poortaalii Warraa", "role": "Warra", "description": "Barnoota ijoollee keessanii hordofaa — qabxii, argama, kaffaltii, fi oduu." },
+    "teacher": { "title": "Daashboordii Barsiisaa", "role": "Barsiisaa", "description": "Kutaa keessan bulchaa — qabxii galchi, hojii kenni, argama galmeessi." },
+    "admin": { "title": "Daashboordii Bulchaa", "role": "Bulchaa", "description": "ERP mana barumsaa guutuu — barattoota, faayinaansii, barnoota, taateewwan, fi quunnamtii." },
+    "modules": {
+      "results": { "title": "Bu'aa", "description": "Bu'aa qormaataa fi rippoortii ilaali." },
+      "assignments": { "title": "Hojii Manaa", "description": "Hojii manaa ergi fi hordofi." },
+      "schedule": { "title": "Sagantaa", "description": "Sagantaa kutaa fi taateewwan." },
+      "announcements": { "title": "Beeksisa", "description": "Beeksisa mana barumsaa guutuu." },
+      "grades": { "title": "Qabxii Hordofi", "description": "Adeemsa barnootaa hordofi." },
+      "attendance": { "title": "Argama", "description": "Galmee argama guyyaa guyyaa." },
+      "payments": { "title": "Kaffaltii", "description": "Kaffaltii fi seenaa kaffaltii." },
+      "notifications": { "title": "Beeksisa", "description": "Akeekkachiisa barsiisaa fi bulchaa." },
+      "marks": { "title": "Qabxii Galchi", "description": "Qabxii fi madaallii galchi." },
+      "students": { "title": "Bulchiinsa Barattootaa", "description": "Galmaa'ina, piroofaayilii, kutaa." },
+      "finance": { "title": "Faayinaansii", "description": "Kaffaltii, invoyisii, fi kaffaltii." },
+      "events": { "title": "Taateewwan", "description": "Kaalaandarii fi bulchiinsa taatee." },
+      "messaging": { "title": "Ergaa", "description": "Wiirtuu quunnamtii keessaa." }
+    }
+  },
+  "footer": {
+    "explore": "Sakatta'i",
+    "admissions": "Galmaa'ina",
+    "portals": "Poortaalota",
+    "contact": "Nu Quunnamaa",
+    "tagline": "Dhaloota Boru Safartuu Addunyaa Jijjiiramtu Keessatti Milkaa'inaaf Qopheessuu!",
+    "oromoName": "Mana Barumsaa Booriyaadi Yuuz Akkaadaamii",
+    "amharicName": "ቦርያድ ዩዝ አካዳሚ"
+  }
+}

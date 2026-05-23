@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8f7f4;
+  --foreground: #081b33;
+  --navy-950: #050f1f;
+  --navy-900: #081b33;
+  --navy-800: #122a4a;
+  --navy-700: #1a3a5c;
+  --gold-600: #b09255;
+  --gold-500: #c9a86a;
+  --gold-400: #d4bc8a;
+  --cream: #f8f7f4;
+  --ivory: #f8f7f4;
+  --muted: #64748b;
+  --teal-accent: #1b7a7a;
+  --purple-accent: #8b7ab8;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-navy-950: var(--navy-950);
+  --color-navy-900: var(--navy-900);
+  --color-navy-800: var(--navy-800);
+  --color-navy-700: var(--navy-700);
+  --color-gold-600: var(--gold-600);
+  --color-gold-500: var(--gold-500);
+  --color-gold-400: var(--gold-400);
+  --color-gold-700: #8a6f18;
+  --color-cream: var(--cream);
+  --color-ivory: var(--ivory);
+  --color-muted: var(--muted);
+  --color-teal-accent: var(--teal-accent);
+  --color-purple-accent: var(--purple-accent);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-cormorant);
+  --font-ethiopic: var(--font-ethiopic);
+}
+
+.font-ethiopic {
+  font-family: var(--font-ethiopic), var(--font-inter), system-ui, sans-serif;
+}
+
+.font-ethiopic h1,
+.font-ethiopic h2,
+.font-ethiopic h3,
+.font-ethiopic h4 {
+  font-family: var(--font-ethiopic), var(--font-inter), system-ui, sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-navy-900/10;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    @apply bg-cream text-foreground antialiased;
+    font-family: var(--font-inter), system-ui, sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-cormorant), Georgia, serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .glass-nav {
+    @apply border-b border-white/10 bg-[#081B33]/88 backdrop-blur-xl backdrop-saturate-150;
+  }
+
+  .cinematic-gradient {
+    background: linear-gradient(
+      135deg,
+      #050f1f 0%,
+      #081b33 40%,
+      #0c2542 70%,
+      #050f1f 100%
+    );
+  }
+
+  .hero-glow-hover {
+    @apply transition-all duration-300 hover:scale-[1.03] hover:shadow-[0_0_28px_rgba(201,168,106,0.35)];
+  }
+
+  .gold-gradient-text {
+    @apply bg-gradient-to-r from-gold-400 via-gold-500 to-gold-600 bg-clip-text text-transparent;
+  }
+
+  .section-divider {
+    @apply mx-auto h-px w-24 bg-gradient-to-r from-transparent via-gold-500 to-transparent;
+  }
+}
