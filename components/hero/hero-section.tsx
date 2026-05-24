@@ -34,7 +34,9 @@ export function HeroSection() {
         </div>
       </div>
 
-      <HeroStatsStrip />
+      <div className="relative z-20 px-3 pb-0 sm:px-6 md:px-8">
+        <HeroStatsStrip />
+      </div>
     </section>
   );
 }
