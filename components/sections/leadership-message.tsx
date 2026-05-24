@@ -6,17 +6,18 @@ import { Section } from "@/components/ui/section";
 
 export function LeadershipMessageSection() {
   return (
-    <Section className="bg-[#F8F7F4]">
+    <Section id="leadership-message" className="bg-[#F8F7F4]">
       <div className="grid items-center gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] lg:gap-16">
-        <div className="overflow-hidden rounded-2xl border border-navy-900/10 bg-white shadow-[0_20px_50px_rgba(8,27,51,0.16)]">
+        <div className="overflow-hidden rounded-2xl border border-navy-900/10 bg-[#eef2f7] shadow-[0_20px_50px_rgba(8,27,51,0.16)]">
           <div className="leadership-photo-pulse relative aspect-[4/5] w-full">
             <Image
               src="/about/jalane-tadesse.jpg"
               alt="General Manager Jalane Tadesse"
               fill
               priority
-              className="object-cover"
+              className="object-contain p-2 md:p-3"
               sizes="(max-width: 1024px) 100vw, 42vw"
+              unoptimized
             />
           </div>
         </div>
@@ -55,7 +56,7 @@ export function LeadershipMessageSection() {
               variant="gold"
               className="group w-fit shadow-[0_8px_20px_rgba(201,168,106,0.28)] hover:shadow-[0_0_28px_rgba(201,168,106,0.52)]"
             >
-              <Link href="/contact">
+              <Link href="/about#leadership-message">
                 Read Full Message
                 <span aria-hidden className="transition-transform duration-300 group-hover:translate-x-1">
                   →
