@@ -107,4 +107,27 @@
   .section-divider {
     @apply mx-auto h-px w-24 bg-gradient-to-r from-transparent via-gold-500 to-transparent;
   }
+
+
+  @keyframes leadership-photo-pulse {
+    0%,
+    100% {
+      transform: scale(1);
+    }
+
+    50% {
+      transform: scale(1.01);
+    }
+  }
+
+  .leadership-photo-pulse {
+    animation: leadership-photo-pulse 6s ease-in-out infinite;
+    transform-origin: center center;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .leadership-photo-pulse {
+      animation: none;
+    }
+  }
 }
