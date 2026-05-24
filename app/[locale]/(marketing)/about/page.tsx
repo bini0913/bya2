@@ -4,6 +4,7 @@ import { Section, SectionHeader } from "@/components/ui/section";
 import { ScrollReveal } from "@/components/motion/scroll-reveal";
 import { StatCounter } from "@/components/ui/stat-counter";
 import { STATS } from "@/lib/constants";
+import { LeadershipMessageSection } from "@/components/sections/leadership-message";
 
 const STAT_KEYS = ["placement", "students", "educators", "years"] as const;
 
@@ -20,6 +21,7 @@ export default async function AboutPage() {
   return (
     <>
       <PageHero eyebrow={t("hero.eyebrow")} title={t("hero.title")} description={t("hero.description")} />
+      <LeadershipMessageSection />
       <Section>
         <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
           <ScrollReveal>
