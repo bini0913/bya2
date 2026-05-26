@@ -1,4 +1,4 @@
-import { AdminShell } from "@/components/admin/admin-shell";
+import { AdminLayoutFrame } from "@/components/admin/admin-layout-frame";
 
 export const metadata = {
   title: "BYA Admin",
@@ -6,5 +6,5 @@ export const metadata = {
 };
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
-  return <AdminShell>{children}</AdminShell>;
+  return <AdminLayoutFrame>{children}</AdminLayoutFrame>;
 }
