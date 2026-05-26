@@ -1,24 +1,22 @@
 import { HeroSection } from "@/components/sections/hero";
-import { WhyBoriyadSection } from "@/components/sections/why-boriyad";
+import { AboutPreviewSection } from "@/components/sections/about-preview";
 import { ProgramsSection } from "@/components/sections/programs";
-import { StudentLifeSection } from "@/components/sections/student-life";
 import { ResultsSection } from "@/components/sections/results";
-import { TestimonialsSection } from "@/components/sections/testimonials";
+import { LeadershipMessageSection } from "@/components/sections/leadership-message";
+import { StudentLifeSection } from "@/components/sections/student-life";
 import { NewsSection } from "@/components/sections/news";
-import { AdmissionsProcessSection } from "@/components/sections/admissions-process";
 import { FinalCTASection } from "@/components/sections/final-cta";
 
 export default function HomePage() {
   return (
     <>
       <HeroSection />
-      <WhyBoriyadSection />
+      <AboutPreviewSection />
       <ProgramsSection />
-      <StudentLifeSection />
       <ResultsSection />
-      <TestimonialsSection />
+      <LeadershipMessageSection />
+      <StudentLifeSection />
       <NewsSection />
-      <AdmissionsProcessSection />
       <FinalCTASection />
     </>
   );
