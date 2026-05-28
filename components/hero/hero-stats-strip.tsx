@@ -8,10 +8,7 @@ export function HeroStatsStrip() {
   const t = useTranslations("home.heroStats");
 
   return (
-    <div
-      id="stats"
-      className="relative z-20 border-t border-white/10 bg-[#081B33]/95 backdrop-blur-md"
-    >
+    <div id="stats" className="relative overflow-hidden rounded-t-3xl border border-white/15 bg-[#081B33]/95 backdrop-blur-md">
       <div className="mx-auto flex max-w-[1400px] flex-col sm:flex-row sm:flex-wrap lg:flex-nowrap">
         {HERO_STATS.map((stat, index) => (
           <HeroStatItem

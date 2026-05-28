@@ -27,8 +27,8 @@ export function HeroBackground() {
       </motion.div>
 
       {/* Cinematic depth */}
-      <div className="absolute inset-0 bg-[#081B33]/55 backdrop-blur-[2px]" />
-      <div className="absolute inset-0 bg-gradient-to-r from-[#081B33] via-[#081B33]/92 to-[#081B33]/25" />
+      <div className="absolute inset-0 bg-[#081B33]/45" />
+      <div className="absolute inset-0 bg-gradient-to-r from-[#081B33]/98 via-[#081B33]/88 to-[#081B33]/12" />
       <div className="absolute inset-0 bg-gradient-to-t from-[#081B33] via-transparent to-[#081B33]/40" />
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_70%_40%,rgba(201,168,106,0.12),transparent_55%)]" />
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_20%_80%,rgba(8,27,51,0.9),transparent_50%)]" />

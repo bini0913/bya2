@@ -53,9 +53,9 @@ export function HeroContent() {
   const lines = [t("line1"), t("line2"), t("line3")] as const;
 
   return (
-    <div className="relative z-10 flex flex-col justify-center px-4 pb-8 pt-28 sm:px-6 sm:pt-32 md:max-w-[58%] md:px-8 md:pb-12 lg:max-w-[52%] lg:px-10 lg:pt-36 xl:max-w-[48%]">
+    <div className="relative z-10 flex flex-col justify-center px-4 pb-16 pt-28 sm:px-6 sm:pt-32 md:max-w-[58%] md:px-8 lg:max-w-[52%] lg:px-10 lg:pt-36 xl:max-w-[48%]">
       <div className="relative">
-        <h1 className="font-sans uppercase leading-[1.05] tracking-tight">
+        <h1 className="font-serif uppercase leading-[1.04] tracking-tight text-balance">
           {lines.map((line, i) => (
             <motion.span
               key={line}
@@ -64,7 +64,7 @@ export function HeroContent() {
               animate={reduced ? undefined : "visible"}
               variants={headlineVariants}
               className={cn(
-                "block text-[clamp(1.75rem,5vw,3.25rem)] font-bold sm:text-[clamp(2rem,4.5vw,3.5rem)] lg:text-[clamp(2.25rem,3.8vw,3.75rem)]",
+                "block text-[clamp(2rem,5vw,3.6rem)] font-bold sm:text-[clamp(2.3rem,4.7vw,4rem)] lg:text-[clamp(2.6rem,4vw,4.6rem)]",
                 i === 1 ? "text-[#C9A86A]" : "text-white"
               )}
             >
@@ -79,7 +79,7 @@ export function HeroContent() {
         initial={reduced ? false : "hidden"}
         animate={reduced ? undefined : "visible"}
         variants={fadeUpVariants}
-        className="mt-8 max-w-xl font-sans text-sm leading-relaxed text-white/75 sm:text-base md:mt-10 md:leading-7"
+        className="mt-10 max-w-xl font-sans text-base leading-relaxed text-white/85 md:mt-12 md:text-[1.08rem] md:leading-8"
       >
         {t("subtitle")}
       </motion.p>
@@ -88,7 +88,7 @@ export function HeroContent() {
         initial={reduced ? false : "hidden"}
         animate={reduced ? undefined : "visible"}
         variants={fadeUpVariants}
-        className="mt-8 flex flex-col gap-3 sm:mt-10 sm:flex-row sm:flex-wrap sm:items-center"
+        className="mt-10 flex flex-col gap-3 sm:mt-12 sm:flex-row sm:flex-wrap sm:items-center"
       >
         <HeroButton href="/admissions/apply" variant="primary">
           {tc("applyNow")}
